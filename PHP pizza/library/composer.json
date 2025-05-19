@@ -1,5 +1,5 @@
 {
-    "name": "alexandr/library",
+    "name": "Nikita/library",
     "type": "project",
     "autoload": {
         "psr-4": {
